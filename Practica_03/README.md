@@ -1,5 +1,7 @@
 # Documentación del Proyecto: E-commerce de Ropa con CRUD en Laravel
 
+by rcamargo
+
 Esta documentación proporciona una visión general del proyecto, su configuración, estructura y funcionalidades, diseñado para un desarrollador full-stack que trabaja con Laravel y PHP.
 
 ## 1. Introducción al Proyecto
